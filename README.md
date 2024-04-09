@@ -1,7 +1,4 @@
 # PROJECT2
-
-Based on the document provided, here's a draft README.md for the project:
-
 ---
 
 # Mushroom Classification Project
