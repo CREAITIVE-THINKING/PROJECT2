@@ -6,9 +6,6 @@
 ## Overview
 In this project, our team explores the fascinating world of mushrooms, focusing on classifying them as edible or poisonous based on their characteristics. Leveraging the UCI machine learning library's dataset, which includes descriptions of hypothetical samples corresponding to 23 species of gilled mushrooms, we aim to demonstrate the power of machine learning in aiding the identification of potentially dangerous species.
 
-## Colab Notebook
-Explore our analysis and model building process in this Colab notebook: [Mushroom Classification Notebook](https://colab.research.google.com/drive/1HnM6xy1pLLL1i6vgZGxzj9ZUYPRlOE-Q)
-
 ## Dataset
 The dataset, derived from "The Audubon Society Field Guide to North American Mushrooms" (1981), encompasses 23 species of gilled mushrooms, providing a robust foundation for our classification tasks.
 
